@@ -2,7 +2,7 @@
 
 A modern Android app for real-time currency conversion, built with Jetpack Compose and following MVVM architecture.
 
-Author: [Matei Dumitru](https://github.com/mateidumitru)
+Author: [Matei Dumitru](https://github.com/mateidumitru1)
 
 ## ✨ Features
 
