@@ -26,10 +26,10 @@ Author: [Matei Dumitru](https://github.com/mateidumitru)
 
 ## 🚀 Future work
 
-| Feature                  | Status  | Description |
-|--------------------------|---------|-------------|
-| Automated Daily Updates  | Planned | ⏰ Background updates via WorkManager |
-| Conversion History       | Planned | 📜 Track past conversions with timestamps |
-| Interactive Charts       | Planned | 📈 Visualize currency trends with MPAndroidChart |
-| Rate Alerts              | Planned | 🔔 Push notifications when target rates are hit |
-| Home Screen Widget       | Planned | 🏠 Quick-access 1x1 conversion widget |
+| Feature                  | Description |
+|--------------------------|-------------|
+| Automated Daily Updates  | ⏰ Background updates via WorkManager |
+| Conversion History       | 📜 Track past conversions with timestamps |
+| Interactive Charts       | 📈 Visualize currency trends with MPAndroidChart |
+| Rate Alerts              | 🔔 Push notifications when target rates are hit |
+| Home Screen Widget       | 🏠 Quick-access 1x1 conversion widget |
